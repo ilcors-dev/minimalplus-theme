@@ -1,0 +1,21 @@
+{
+  "name": "ilcors-dev.minimal-plus",
+  "displayName": "minimal-plus",
+  "description": "black & white revamped",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "minimal+",
+        "uiTheme": "vs",
+        "path": "./themes/minimal+-color-theme.json",
+      }
+    ]
+  }
+}
